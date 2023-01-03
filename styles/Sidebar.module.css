@@ -1,0 +1,18 @@
+.sidebar{
+    min-width: 250px;
+    max-width: 250px;
+    background-color: turquoise;
+}
+
+.sidebartitle{
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.sidebar ul li{
+    color: black;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-size: 1.1em;
+}
